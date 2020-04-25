@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Saravana Kumar (SK)"
+title                    : "About"
 title_separator          : " "
 name                     : &name "Saravana Kumar"
 description              : &description "SDE @ Amazon Braket | Groups: Amazon AI, Precog @ IIIT-D, Data Mining Research Lab @ OSU"
