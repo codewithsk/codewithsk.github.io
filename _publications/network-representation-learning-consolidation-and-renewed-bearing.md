@@ -2,7 +2,7 @@
 title: "Network representation learning: Consolidation and renewed bearing"
 collection: publications
 permalink: /publication/network-representation-learning-consolidation-and-renewed-bearing
-excerpt: 'Network Representation Learning'
+excerpt: 'In this systematic yet comprehensive experimental survey, we benchmark several popular network representation learning methods operating on two key tasks: link prediction and node classification.....'
 date: 2019-05-02
 venue: 'arxiv'
 paperurl: 'https://arxiv.org/abs/1905.00987'
