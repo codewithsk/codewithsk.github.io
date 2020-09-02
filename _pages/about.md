@@ -10,5 +10,4 @@ redirect_from:
 
 Hello!
 
-Welcome to my page :) Feel free to look around. 
-
+My name is Saravanakumar. You can call me SK. Feel free to look around!
