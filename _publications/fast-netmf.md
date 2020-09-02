@@ -3,7 +3,7 @@ title: "Fast-NetMF: Graph Embedding Generation on Single GPU and Multi-core CPUs
 collection: publications
 permalink: /publication/fast-netmf
 excerpt: 'There is growing interest for learning representations for nodes in a network. Several embedding generation algorithms have been proposed in the last few years that generate high quality representations for downstream tasks like node classification and link prediction.'
-date: 2019
+date: 2019-08-01
 venue: 'The Ohio State University'
 paperurl: "https://etd.ohiolink.edu/!etd.send_file?accession=osu1557162076041442&disposition=inline"
 ---
