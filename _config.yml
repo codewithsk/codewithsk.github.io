@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About"
+title                    : "Saravana Kumar"
 title_separator          : " "
-name                     : &name "Saravana Kumar"
-description              : &description "SDE @ Amazon Braket | Groups: Amazon AI, Precog @ IIIT-D, Data Mining Research Lab @ OSU"
+name                     : &name "Saravana Kumar (SK)"
+description              : &description "SDE @ Amazon Braket | The Ohio State University, '19 | CEG '17 | Previous: SDE @ Amazon AI, Precog @ IIIT-D, DMRL @ OSU"
 url                      : https://codewithsk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "codewithsk/codewithsk.github.io"
+repository               : "codewithsk.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Saravana Kumar (SK)"
   avatar           : "profile.png"
-  bio              : "SDE @ Amazon Braket | Groups: Amazon AI, Precog @ IIIT-D, Data Mining Research Lab @ OSU"
+  bio              : "SDE @ Amazon Braket | The Ohio State University, '19 | CEG '17 | Previous: SDE @ Amazon AI, Precog @ IIIT-D, DMRL @ OSU"
   location         : "Seattle, WA"
   employer         :
-  pubmed           : ""
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=MDz4BBQAAAAJ&hl=en"
+  email            : "shanmugamsakthivadivel.1@osu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -106,7 +106,7 @@ author:
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://stackoverflow.com/users/6162823/saravana-kumar"
   steam            :
   tumblr           :
   twitter          : "i__am__sk"
