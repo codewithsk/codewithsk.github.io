@@ -10,4 +10,14 @@ redirect_from:
 
 Hello!
 
-My name is Saravanakumar. You can call me SK. Feel free to look around!
+This webpage - like me, is a constant work in progress. Feel free to look around. 
+
+You can talk to me about,
+ 
+- graphs: the one with nodes
+- machine learning
+- quantum computing
+- GPUs
+- [obsidian](http://obsidian.md)
+
+For a cup of coffee, reach out at shanmugamsakthivadivel dot 1 at osu dot edu. 
